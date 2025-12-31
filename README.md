@@ -1,1 +1,1 @@
-!()[./lain-sel.gif]
+!()[./lain.jfif]
