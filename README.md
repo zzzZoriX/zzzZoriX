@@ -1,1 +1,1 @@
-<div class="tenor-gif-embed" data-postid="3253570650462458965" data-share-method="host" data-aspect-ratio="1.36813" data-width="100%"><a href="https://tenor.com/view/lain-sel-serial-experiments-lain-iwakura-laugh-gif-3253570650462458965">Lain Sel GIF</a>from <a href="https://tenor.com/search/lain-gifs">Lain GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+!()[./lain-sel.gif]
