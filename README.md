@@ -1,7 +1,7 @@
 <img src="lain-sel.gif" width="100%"><br/><br/>
 
 # Hi, i'm Alexander
-## Software developer from Russia
+## Software developer from Russia (want to be a hardware developer)
 
 # A little about me:
 
