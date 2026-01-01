@@ -1,9 +1,9 @@
 <img src="lain-sel.gif" width="100%"><br/><br/>
 
-# Hi, i'm Alexander
-## Software developer from Russia (want to be a hardware developer)
+<h1 align="center">Hi, I'm Alexander</h1>
+<h2 align="center">Software developer from Russia (want to be a hardware developer)</h2>
 
-# A little about me:
+<h1 align="center">A little about me:</h1>
 
 ## What I do?
 - I writing desktop utils, compilers and other funny things
