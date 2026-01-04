@@ -1,17 +1,17 @@
 <img src="lain-sel.gif" width="100%"><br/><br/>
 
 <h1 align="center">Hi, I'm Alexander</h1>
-<h2 align="center">Software developer from Russia (want to be a hardware developer)</h2>
+<h2 align="center">Software developer from Russia (aiming to become a hardware developer)</h2>
 
 <h1 align="center">A little about me:</h1>
 
 ## What I do?
-- I writing desktop utils, compilers and other funny things
+- I write desktop utils, compilers and other funny things
 
-## What I know/learning/want to learn?
-### know:
+## What I know / am learning / want to learn?
+### Proficient in:
 - C
-### learning:
+### currently learning:
 - python
 - Rust
 ### want to learn:  
