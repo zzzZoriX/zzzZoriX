@@ -9,7 +9,7 @@
 - I write desktop utils, compilers and other funny things
 
 ## What I know / am learning / want to learn?
-### Proficient in:
+### proficient in:
 - C
 ### currently learning:
 - python
