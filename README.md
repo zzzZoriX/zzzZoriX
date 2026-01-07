@@ -18,6 +18,7 @@
 - C++
 
 ## I'm currently working on:
+### [Memory sanitizer for C/C++ (higher priority)](https://github.com/zzzZoriX/Light)
 ### [Compiler for my programming language](https://github.com/zzzZoriX/Shine.git)
 
 ## My other projects:
